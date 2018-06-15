@@ -1,0 +1,37 @@
+IBAN	IPA	ARPABET
+
+@	ə	ax
+GG	g	g(authors thought it would be ɣ, but it isn't)
+KK	ʔ̞	q
+NG	ŋ	ng
+NJ	ɲ	none(closest=n)
+SS	ʃ	sh
+a	a	aa
+aj	aj	ai
+aw	aw	aw
+b	b	b
+d	d	d
+dZ	dʒ	jh
+e	ə	ax(authors thought it would be e, but it isn't)
+f	f	f
+g	g	g
+h	h	hh
+i	i	iy
+j	j	y
+k	k	k
+l	l	l
+m	m	m
+n	n	n
+o	o	ow
+oj	oj	oi
+p	p	p
+r	r	none(closest=r)
+s	s	s
+t	t	t
+tS	tʃ	ch
+u	u	uw
+v	v	v
+w	w	w
+x	x	none(closest=k)
+z	z	z
+
